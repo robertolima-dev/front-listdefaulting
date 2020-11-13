@@ -1,5 +1,10 @@
 # front-knights
 
+## .env
+```
+VUE_APP_URL_API=http://localhost:5000
+```
+
 ## Project setup
 ```
 npm install
